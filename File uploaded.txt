@@ -1,1 +1,2 @@
 This is initial text
+Modified from local repository

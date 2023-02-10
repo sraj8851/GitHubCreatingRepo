@@ -1,3 +1,6 @@
 [submodule "anotherFolder"]
 	path = anotherFolder
 	url = ./anotherFolder
+[submodule "myNewFolder"]
+	path = myNewFolder
+	url = ./myNewFolder
